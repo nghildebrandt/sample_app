@@ -15,6 +15,9 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'pg'
 gem 'haml-rails'
+gem 'minitest-reporters'
+gem 'guard'
+gem 'guard-minitest'
 
 group :development, :test do
   gem 'byebug', platform: :mri
