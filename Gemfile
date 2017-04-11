@@ -18,6 +18,8 @@ gem 'haml-rails'
 gem 'minitest-reporters'
 gem 'guard'
 gem 'guard-minitest'
+gem 'bootstrap-sass'
+gem 'rails-controller-testing'
 
 group :development, :test do
   gem 'byebug', platform: :mri
