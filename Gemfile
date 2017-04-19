@@ -20,6 +20,7 @@ gem 'guard'
 gem 'guard-minitest'
 gem 'bootstrap-sass'
 gem 'rails-controller-testing'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'byebug', platform: :mri
